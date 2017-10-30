@@ -1,6 +1,7 @@
 # Machine Learning Applications on Dota 2
 
-The suggestion model is currently being migrated
+***The suggestion model is currently being migrated***  
+***A paper about the results of the project will be available soon***
 
 Models:
 * train_hero_embeddings.py : model for representing Dota 2 heroes in a latent space, includes logger and saver utilities.
